@@ -1,0 +1,4 @@
+.env
+vcap-local.json
+application.js
+node_modules/
